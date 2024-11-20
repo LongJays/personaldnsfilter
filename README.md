@@ -6,3 +6,6 @@ See http://www.zenz-solutions.de/personaldnsfilter for details
      alt="Get it on F-Droid"
      height="80">](https://f-droid.org/packages/dnsfilter.android/)
 end
+→ ~ cd github-changelog
+→ ~/github-changelog|main git log main
+showing all changes successfully
